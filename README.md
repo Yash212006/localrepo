@@ -1,2 +1,7 @@
 # Odd Even C code
-This program helps us to find the odd even numer.
+This program helps us to find the odd even numer effectively.
+<br>
+it is very helpful.
+<br>
+coder no 1.
+
